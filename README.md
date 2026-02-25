@@ -1,4 +1,4 @@
-# ESP32 WiFi GPS Tracker 🌍
+# ESP32 WiFi GPS Tracker 
 
 This project connects an ESP32 to WiFi and reads real-time GPS coordinates using a GPS module. The latitude and longitude are displayed in the Serial Monitor.
 
@@ -89,5 +89,9 @@ Longitude: 78.486671
 
 ## 👨‍💻 Author
 
-Your Name  
-ESP32 + IoT Project
+The Challengers-K.LakshmiSowmya
+                N.Meghana
+                N.Rishitha
+                K.Bhuvana
+                K.Mahirajasree
+
